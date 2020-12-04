@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "module 10 project using tdd and oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clintonstrange/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "object",
+    "oriented",
+    "programming"
+  ],
+  "author": "clint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clintonstrange/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/clintonstrange/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
